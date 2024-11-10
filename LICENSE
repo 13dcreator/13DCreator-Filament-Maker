@@ -1,0 +1,92 @@
+	1. 3D Printed Parts:
+
+Licensed under Creative Commons Attribution-NonCommercial (CC BY-NC).
+This part can be used and modified for non-commercial purposes with appropriate attribution to the creator.
+Details at: https://creativecommons.org/licenses/by-nc/4.0/
+
+	2. Documentation:
+
+Distributed under Creative Commons Attribution-NonCommercial (CC BY-NC).
+It can be shared and adapted for non-commercial purposes with proper attribution to the creator.
+Details at: https://creativecommons.org/licenses/by-nc/4.0/
+
+	3. Software Code License
+
+Licensed under the MIT License, which allows for software usage, modification, distribution, and private use with no warranty. 
+Details at: https://opensource.org/licenses/MIT
+
+MIT License
+
+Copyright (c) 2024 13DCreator
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+---
+
+	4. Third-Party Libraries Used
+
+This project uses the following third-party libraries, each subject to its own license. These library licenses should be respected by users or developers who wish to use or distribute this project. Please note that these licenses only apply to the libraries listed below and do not modify the primary license for code created by 13DCreator.
+
+1. ESP8266WiFi.h
+
+    Description: Library for managing WiFi functionality on ESP8266.
+    License: LGPL 2.1 or later
+    More Info: https://github.com/esp8266/Arduino/blob/master/libraries/ESP8266WiFi/src/ESP8266WiFi.h
+
+2. ESPAsyncWebServer.h
+
+    Description: Library for asynchronous web server on ESP8266.
+    License: LGPL 2.1 or later
+    More Info: https://github.com/mathieucarbou/ESPAsyncWebServer/blob/main/src/ESPAsyncWebServer.h
+
+3. ESPAsyncTCP.h
+
+    Description: Library for asynchronous TCP communication.
+    License: LGPL 2.1 or later
+    More Info: https://github.com/dvarrel/ESPAsyncTCP/blob/master/src/ESPAsyncTCP.h
+
+4. Encoder.h
+
+    Description: Library to interface with rotary encoders.
+    License: MIT License
+    More Info:		https://www.pjrc.com/teensy/td_libs_Encoder.html
+			https://github.com/PaulStoffregen/Encoder/blob/master/Encoder.h
+
+5. AccelStepper.h
+
+    Description: Library for controlling stepper motors.
+    License: 
+	AccelStepper is Copyright (C) 2008 Mike McCauley. 
+	* * License:
+		* Open Source Licensing GPL V3: 
+ 
+		* Commercial Licensing: * Contact info@open.com.au for details.
+
+    More Info: https://www.airspayce.com/mikem/arduino/AccelStepper/
+
+6. PID_v1.h
+
+    Description: Library for PID control algorithm.
+    License: MIT License
+    More Info:		https://github.com/br3ttb/Arduino-PID-Library
+			http://brettbeauregard.com/blog/2011/04/improving-the-beginners-pid-introduction/
+7. FS.h
+
+    Description: Library for SPIFFS (SPI Flash File System).
+    License: LGPL 2.1 or later
+    More Info: https://github.com/esp8266/Arduino/blob/master/cores/esp8266/FS.h
+
+8. Ticker.h
+
+    Description: Library for Ticker, used for timed callbacks.
+    License: LGPL 2.1 or later
+    More Info: https://github.com/esp8266/Arduino/blob/master/libraries/Ticker/src/Ticker.h
+
+
+---
+
+Users and developers are encouraged to review and comply with the terms of each third-party library license listed above. 
