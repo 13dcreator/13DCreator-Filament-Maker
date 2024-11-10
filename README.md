@@ -35,6 +35,10 @@ Anda dapat memberikan apresiasi untuk proyek ini melalui tautan berikut:
 Terima kasih atas apresiasi Anda!
 
 
+## Contact Me
+
+[![Email](https://img.shields.io/badge/Email-13DCreator-blue?style=flat&logo=gmail)](mailto:alif.3di@gmail.com)
+
 
 
 Lisensi : Silahkan lihat file LICENSE
