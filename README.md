@@ -27,6 +27,58 @@ Buka file dokumentasi > File > Download > PDF Document (.pdf)
 [Bahan yang Diperlukan/BOM](https://docs.google.com/spreadsheets/d/1hQpWlGkNJCp8BHFFs-p2dSdpw58OgJwYKI5ZXl5ccxk/edit?usp=sharing)
 
 
+## 3D Print Results
+
+<table>
+  <tr>
+    <td><img src="Images/3D Print Results/0001.jpg" width="100" /></td>
+    <td><img src="Images/3D Print Results/0002.jpg" width="100" /></td>
+    <td><img src="Images/3D Print Results/0003.jpg" width="100" /></td>
+  </tr>
+  <tr>
+    <td><img src="Images/3D Print Results/0004.jpg" width="100" /></td>
+    <td><img src="Images/3D Print Results/0005.jpg" width="100" /></td>
+    <td><img src="Images/3D Print Results/square_0001.jpg" width="100" /></td>
+  </tr>
+  <tr>
+    <td><img src="Images/3D Print Results/square_0002.jpg" width="100" /></td>
+    <td><img src="Images/3D Print Results/square_0003.jpg" width="100" /></td>
+    <td><img src="Images/3D Print Results/square_0004.jpg" width="100" /></td>
+  </tr>
+</table>
+
+
+
+## Filament Maker
+
+<table>
+  <tr>
+    <td><img src="Images/Filament Maker/0001.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0002.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0003.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0004.jpg" width="100" /></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Filament Maker/0005.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0006.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0007.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0008.jpg" width="100" /></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Filament Maker/0009.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0010.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0011.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0012.jpg" width="100" /></td>
+  </tr>
+  <tr>
+    <td><img src="Images/Filament Maker/0013.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0014.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0015.jpg" width="100" /></td>
+    <td><img src="Images/Filament Maker/0016.jpg" width="100" /></td>
+  </tr>
+</table>
+
+
 ## Apresiasi
 
 Anda dapat memberikan apresiasi untuk proyek ini melalui tautan berikut:
