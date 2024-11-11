@@ -94,6 +94,13 @@ Anda dapat memberikan apresiasi untuk proyek ini melalui tautan berikut:
 <br>
 Terima kasih atas apresiasi Anda!
 
+## Connect with Us
+
+<p align="left">
+    <a href="https://www.youtube.com/@13dcreator"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://www.instagram.com/13dcreator"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
 
 ## Contact Me
 
