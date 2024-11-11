@@ -9,6 +9,7 @@ Proses Kerja:
 4. Pemeriksaan Kualitas Filament: Filament yang dihasilkan diperiksa untuk memastikan kualitas dan ketebalan sesuai spesifikasi.
 
 Kesimpulan:
+
 Filament Maker dari botol PET bekas ini memberikan solusi ekonomis sekaligus ramah lingkungan, memungkinkan pengguna mendaur ulang plastik bekas menjadi filament yang siap digunakan dalam pencetakan 3D. Dengan desain yang mudah dioperasikan, kontrol otomatis yang presisi, dan sistem modular yang mempermudah perawatan, proyek ini menawarkan pendekatan baru yang berkelanjutan dalam produksi material 3D.
 
 Kelemahan:
