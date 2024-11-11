@@ -25,13 +25,14 @@ Buka file dokumentasi > File > Download > PDF Document (.pdf)
 Anda dapat memberikan apresiasi untuk proyek ini melalui tautan berikut:
 
 <a href="https://www.paypal.com/paypalme/alif2113">
-    <img src="https://img.shields.io/badge/Support-PayPal-blue.svg" alt="Support with PayPal" height="30">
+    <img src="https://img.shields.io/badge/Support-PayPal-blue.svg" alt="Support with PayPal" height="25">
 </a>
+&nbsp;
 <a href="https://saweria.co/13dcreator">
-    <img src="https://img.shields.io/badge/Support-Saweria-orange.svg" alt="Support with Saweria" height="30">
+    <img src="https://img.shields.io/badge/Support-Saweria-orange.svg" alt="Support with Saweria" height="25">
 </a>
 
-
+<br>
 Terima kasih atas apresiasi Anda!
 
 
