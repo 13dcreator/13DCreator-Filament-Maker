@@ -11,7 +11,7 @@ Proses Kerja:
 Kesimpulan:
 Filament Maker dari botol PET bekas ini memberikan solusi ekonomis sekaligus ramah lingkungan, memungkinkan pengguna mendaur ulang plastik bekas menjadi filament yang siap digunakan dalam pencetakan 3D. Dengan desain yang mudah dioperasikan, kontrol otomatis yang presisi, dan sistem modular yang mempermudah perawatan, proyek ini menawarkan pendekatan baru yang berkelanjutan dalam produksi material 3D.
 
-Download dokumentasi dengan format PDF agar lebih mudah dilihat dengan cara:
+## Download dokumentasi dengan format PDF agar lebih mudah dilihat dengan cara:
 
 Buka file dokumentasi > File > Download > PDF Document (.pdf)
 
@@ -25,11 +25,11 @@ Buka file dokumentasi > File > Download > PDF Document (.pdf)
 Anda dapat memberikan apresiasi untuk proyek ini melalui tautan berikut:
 
 <a href="https://www.paypal.com/paypalme/alif2113">
-    <img src="https://img.shields.io/badge/Support-PayPal-blue.svg" alt="Support with PayPal" height="25">
+    <img src="https://img.shields.io/badge/PayPal-blue.svg" alt="PayPal" height="25">
 </a>
 &nbsp;
 <a href="https://saweria.co/13dcreator">
-    <img src="https://img.shields.io/badge/Support-Saweria-orange.svg" alt="Support with Saweria" height="25">
+    <img src="https://img.shields.io/badge/Saweria-orange.svg" alt="Saweria" height="25">
 </a>
 
 <br>
@@ -42,4 +42,6 @@ Terima kasih atas apresiasi Anda!
 
 
 
-Lisensi : Silahkan lihat file LICENSE
+## Lisensi
+
+Silahkan lihat file LICENSE
