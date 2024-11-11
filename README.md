@@ -12,6 +12,9 @@ Kesimpulan:
 
 Filament Maker dari botol PET bekas ini memberikan solusi ekonomis sekaligus ramah lingkungan, memungkinkan pengguna mendaur ulang plastik bekas menjadi filament yang siap digunakan dalam pencetakan 3D. Dengan desain yang mudah dioperasikan, kontrol otomatis yang presisi, dan sistem modular yang mempermudah perawatan, proyek ini menawarkan pendekatan baru yang berkelanjutan dalam produksi material 3D.
 
+Rekomendasi Penggunaan Extruder:
+Disarankan untuk menggunakan Dual Gear Extruder agar cengkeraman terhadap filament lebih kuat dan stabil, karena diameter filament mungkin tidak selalu konsisten.
+
 Kelemahan:
 1. Putaran stepper motor sering terhambat saat ESP8266 terhubung ke WiFi. Pastikan untuk memutus koneksi WiFi pada ESP8266 saat proses pembuatan filament.
 2. Suara stepper motor cukup berisik; coba atur microstepping untuk menguranginya.
