@@ -16,10 +16,13 @@ Rekomendasi Penggunaan Extruder:
 Disarankan untuk menggunakan Dual Gear Extruder agar cengkeraman terhadap filament lebih kuat dan stabil, karena diameter filament mungkin tidak selalu konsisten.
 
 Kelemahan:
-1. Putaran stepper motor sering terhambat saat ESP8266 terhubung ke WiFi. Pastikan untuk memutus koneksi WiFi pada ESP8266 saat proses pembuatan filament.
-2. Suara stepper motor cukup berisik; coba atur microstepping untuk menguranginya.
-3. Suara cutter cukup keras saat memotong botol, terutama untuk botol PET yang tebal.
-4. Deteksi filament terkadang terhenti jika filament yang ditarik oleh filament puller kendur atau terlalu tipis.
+1. Hasil filament yang dihasilkan tidak selalu konsisten, sangat tergantung dengan konsistensi potongan.
+2. Dapat mengakibatkan macet jika diameter filament terlalu kecil atau terlalu besar.
+3. Putaran stepper motor sering terhambat saat ESP8266 terhubung ke WiFi. Pastikan untuk memutus koneksi WiFi pada ESP8266 saat proses pembuatan filament.
+4. Suara stepper motor cukup berisik; coba atur microstepping untuk menguranginya.
+5. Suara cutter cukup keras saat memotong botol, terutama untuk botol PET yang tebal; bisa disiasati dengan menggunakan pelumas.
+6. Deteksi filament terkadang terhenti jika filament yang ditarik oleh filament puller kendur atau terlalu tipis.
+
 
 ## Download dokumentasi dengan format PDF agar lebih mudah dilihat dengan cara:
 
