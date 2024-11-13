@@ -64,7 +64,7 @@ Open the documentation file > File > Download > PDF Document (.pdf)
 [English Documentation](https://docs.google.com/document/d/1ymJz-RaAGOkLNr1P1AoNhB6fQcQ51tFpCmrfthYmQNY/edit?usp=sharing)
 
 
-[Bahan yang Diperlukan/BOM](https://docs.google.com/spreadsheets/d/1hQpWlGkNJCp8BHFFs-p2dSdpw58OgJwYKI5ZXl5ccxk/edit?usp=sharing)
+[BOM/Bahan yang Diperlukan](https://docs.google.com/spreadsheets/d/1hQpWlGkNJCp8BHFFs-p2dSdpw58OgJwYKI5ZXl5ccxk/edit?usp=sharing)
 
 
 ## 3D Print Results
