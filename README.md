@@ -29,6 +29,7 @@ Kelemahan:
 Buka file dokumentasi > File > Download > PDF Document (.pdf)
 
 [Dokumentasi Bahasa Indonesia](https://docs.google.com/document/d/12gZyxp6K4KovrQUbeszD_oszRoTwFk6smVtTxPSdtus/edit?usp=sharing)
+
 [English Documentation](https://docs.google.com/document/d/1ymJz-RaAGOkLNr1P1AoNhB6fQcQ51tFpCmrfthYmQNY/edit?usp=sharing)
 
 
