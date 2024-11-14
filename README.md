@@ -29,7 +29,7 @@ Filament Maker dari botol PET bekas ini memberikan solusi ekonomis sekaligus ram
 
 ## English
 
-PET Filament Maker is a device designed to convert used PET bottles into reusable 3D filament. This project aims to provide an eco-friendly solution by reducing plastic waste while saving on filament material costs, which are typically purchased.
+PET Filament Maker is a tool designed to convert used PET bottles into reusable 3D filament. This project aims to provide an eco-friendly solution by reducing plastic waste while saving on filament material costs, which are typically purchased.
 
 Extruder Usage Recommendation: It is recommended to use a Dual Gear Extruder for stronger and more stable grip on the filament, as the filament diameter may not always be consistent.
 
