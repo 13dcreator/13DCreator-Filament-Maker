@@ -86,6 +86,42 @@ This project uses the following third-party libraries, each subject to its own l
     License: LGPL 2.1 or later
     More Info: https://github.com/esp8266/Arduino/blob/master/libraries/Ticker/src/Ticker.h
 
+9. Wifi.h
+
+    Description: 
+    License: LGPL 2.1 or later
+    More Info: https://github.com/espressif/arduino-esp32/blob/master/libraries/WiFi/src/WiFi.h
+
+10. AsyncTCP.h
+
+    Description: 
+    License: LGPL-3.0
+    More Info: https://github.com/mathieucarbou/AsyncTCP
+
+
+11. EEPROM.h
+
+    Description: 
+    License: LGPL 2.1 or later
+    More Info: https://github.com/espressif/arduino-esp32/blob/master/libraries/EEPROM/src/EEPROM.h
+
+12. FastAccelStepper.h
+
+    Description: 
+    License: MIT
+    More Info: https://github.com/gin66/FastAccelStepper
+
+13. Adafruit_GFX.h
+
+    Description: 
+    License: BSD License
+    More Info: https://github.com/adafruit/Adafruit-GFX-Library
+
+14. Adafruit_SSD1306.h
+
+    Description: 
+    License: BSD License
+    More Info: https://github.com/adafruit/Adafruit_SSD1306
 
 ---
 
