@@ -43,6 +43,14 @@ This project uses the following third-party libraries, each subject to its own l
     License: LGPL 2.1 or later
     More Info: https://github.com/mathieucarbou/ESPAsyncWebServer/blob/main/src/ESPAsyncWebServer.h
 
+	or
+
+    Description: Library for asynchronous web server on ESP8266.
+    License: LGPL 2.1 or later
+    More Info: https://github.com/lacamera/ESPAsyncWebServer/blob/master/src/ESPAsyncWebServer.h
+
+
+
 3. ESPAsyncTCP.h
 
     Description: Library for asynchronous TCP communication.
@@ -104,6 +112,13 @@ This project uses the following third-party libraries, each subject to its own l
     Description: 
     License: LGPL 2.1 or later
     More Info: https://github.com/espressif/arduino-esp32/blob/master/libraries/EEPROM/src/EEPROM.h
+
+	or
+
+    Description: 
+    License: LGPL 2.1 or later
+    More Info: https://github.com/esp8266/Arduino/blob/master/libraries/EEPROM/EEPROM.h
+
 
 12. FastAccelStepper.h
 
